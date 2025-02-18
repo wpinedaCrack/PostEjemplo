@@ -1,0 +1,14 @@
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\bin\Debug\net8.0\POST.Domain.deps.json
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\bin\Debug\net8.0\POST.Domain.runtimeconfig.json
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\bin\Debug\net8.0\POST.Domain.dll
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\bin\Debug\net8.0\POST.Domain.pdb
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\obj\Debug\net8.0\POST.Domain.csproj.AssemblyReference.cache
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\obj\Debug\net8.0\POST.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\obj\Debug\net8.0\POST.Domain.AssemblyInfoInputs.cache
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\obj\Debug\net8.0\POST.Domain.AssemblyInfo.cs
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\obj\Debug\net8.0\POST.Domain.csproj.CoreCompileInputs.cache
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\obj\Debug\net8.0\POST.Domain.dll
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\obj\Debug\net8.0\refint\POST.Domain.dll
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\obj\Debug\net8.0\POST.Domain.pdb
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\obj\Debug\net8.0\POST.Domain.genruntimeconfig.cache
+C:\Users\luish\source\repos\POSEjemplo\POST.Domain\obj\Debug\net8.0\ref\POST.Domain.dll
