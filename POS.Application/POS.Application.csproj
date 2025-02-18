@@ -16,6 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\POS.Infraestructure\POS.Infraestructure.csproj" />
     <ProjectReference Include="..\POST.Domain\POST.Domain.csproj" />
+    <ProjectReference Include="..\POST.Utilities\POST.Utilities.csproj" />
   </ItemGroup>
 
 </Project>

@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.Api", "POS.Api\POS.Api.csproj", "{5389E3BD-637E-4C1C-8E94-E0B2D6B8068A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POS.Api", "POS.Api\POS.Api.csproj", "{5389E3BD-637E-4C1C-8E94-E0B2D6B8068A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.Application", "POS.Application\POS.Application.csproj", "{18872AA3-CDFA-4FDB-847E-53C9418E17C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POS.Application", "POS.Application\POS.Application.csproj", "{18872AA3-CDFA-4FDB-847E-53C9418E17C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POST.Domain", "POST.Domain\POST.Domain.csproj", "{60307534-8B7A-4266-A230-1C819915139C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POST.Domain", "POST.Domain\POST.Domain.csproj", "{60307534-8B7A-4266-A230-1C819915139C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{3E3A6A9D-CAC6-4A1C-AFBA-BCA67B016AFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS.Infraestructure", "POS.Infraestructure\POS.Infraestructure.csproj", "{FC497428-7A10-47EF-8CF2-4C136819093D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "POS.Infraestructure", "POS.Infraestructure\POS.Infraestructure.csproj", "{FC497428-7A10-47EF-8CF2-4C136819093D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POST.Utilities", "POST.Utilities\POST.Utilities.csproj", "{0F7BABC6-8D69-4830-BC0D-CC9834D7858A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +37,10 @@ Global
 		{FC497428-7A10-47EF-8CF2-4C136819093D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC497428-7A10-47EF-8CF2-4C136819093D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC497428-7A10-47EF-8CF2-4C136819093D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7BABC6-8D69-4830-BC0D-CC9834D7858A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7BABC6-8D69-4830-BC0D-CC9834D7858A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7BABC6-8D69-4830-BC0D-CC9834D7858A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7BABC6-8D69-4830-BC0D-CC9834D7858A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{18872AA3-CDFA-4FDB-847E-53C9418E17C0} = {3E3A6A9D-CAC6-4A1C-AFBA-BCA67B016AFC}
 		{60307534-8B7A-4266-A230-1C819915139C} = {3E3A6A9D-CAC6-4A1C-AFBA-BCA67B016AFC}
 		{FC497428-7A10-47EF-8CF2-4C136819093D} = {3E3A6A9D-CAC6-4A1C-AFBA-BCA67B016AFC}
+		{0F7BABC6-8D69-4830-BC0D-CC9834D7858A} = {3E3A6A9D-CAC6-4A1C-AFBA-BCA67B016AFC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4D5763F4-47C6-4571-B1BE-A3FC103ECB18}

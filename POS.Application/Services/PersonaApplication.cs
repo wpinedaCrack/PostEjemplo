@@ -6,7 +6,7 @@ using POS.Application.Validators.Personas;
 using POS.Infraestructure.Commons.Bases.Request;
 using POS.Infraestructure.Commons.Bases.Response;
 using POS.Infraestructure.Persistences.Interfaces;
-using POST.Domain.Entities;
+using POST.Utilities.Static;
 
 namespace POS.Application.Services
 {
@@ -39,12 +39,12 @@ namespace POS.Application.Services
             {
                 response.IsSuccess = true;
                 response.Data = _mapper.Map<BaseEntityResponse<PersonaRequestDto>>(personas);
-                response.Message = "OK";// ReplyMessage.MESSAGE_QUERY;
+                response.Message = ReplyMessage.MESSAGE_QUERY;
             }
             else
             {
                 response.IsSuccess = false;
-                response.Message = "Mal";// ReplyMessage.MESSAGE_QUERY_EMPY;
+                response.Message = ReplyMessage.MESSAGE_QUERY_EMPY;
             }
             return response;
         }
